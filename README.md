@@ -8,3 +8,4 @@ Projeto individual do Segundo Módulo proposto pela Resilia, no qual a finalidad
 
 Acesso ao projeto [aqui](https://github.com/Fernanda-Camarg0/Codificador-M2).
 
+Visualizar a pagina do projeto[aqui](https://fernanda-camarg0.github.io/Codificador-M2/)
